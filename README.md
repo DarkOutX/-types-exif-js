@@ -15,7 +15,7 @@ So I know just one possible way:
  - Rename `node_modules/exif-js/exif.d.ts` to `node_modules/exif-js/exif._d.ts`
 
 ## Contributions
-This is an [open source project](LICENSE.md). Please contribute by forking this repo and issueing a pull request.
+This is an [open source project](LICENSE). Please contribute by forking this repo and issueing a pull request.
 
-You can also contribute by [filing bugs or new features please issue](/-types-exif-js/issues).
+You can also contribute by [filing bugs or new features please issue](https://github.com/DarkOutX/-types-exif-js/issues).
 Or improve the documentation.
