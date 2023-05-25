@@ -1,0 +1,47 @@
+{
+  "exifdata": {
+    "ImageWidth": 4624,
+    "Model": "Redmi Note 8 Pro",
+    "ImageHeight": 3472,
+    "Orientation": 6,
+    "DateTime": "2023:04:23 16:52:27",
+    "ExifIFDPointer": 154,
+    "GPSInfoIFDPointer": 2887,
+    "Make": "Xiaomi",
+    "FNumber": 1.89,
+    "ExposureTime": 0.001265,
+    "undefined": "Redmi Note 8 Pro",
+    "SubsecTimeDigitized": "768",
+    "SubsecTimeOriginal": "768",
+    "SubsecTime": "768",
+    "FocalLength": 5.43,
+    "Flash": "Flash did not fire",
+    "ISOSpeedRatings": 100,
+    "DateTimeDigitized": "2023:04:23 16:52:27",
+    "PixelYDimension": 3472,
+    "DateTimeOriginal": "2023:04:23 16:52:27",
+    "PixelXDimension": 4624,
+    "ApertureValue": 1.84,
+    "ShutterSpeedValue": -9.62,
+    "GPSLatitudeRef": "\u0000",
+    "GPSLatitude": [
+      null,
+      null,
+      null
+    ],
+    "GPSLongitudeRef": "\u0000",
+    "GPSLongitude": [
+      null,
+      null,
+      null
+    ],
+    "GPSTimeStamp": [
+      null,
+      null,
+      null
+    ],
+    "GPSDateStamp": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "thumbnail": {}
+  },
+  "iptcdata": {}
+}

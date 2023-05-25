@@ -1,0 +1,23 @@
+{
+    "name": "@types/exif-js",
+    "version": "0.0.1",
+    "description": "TypeScript definitions for exif-js",
+    "homepage": "https://github.com/DarkOutX/-types-exif-js",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Dmitry Zhukov",
+            "url": "https://gitlab.com/DarkOutX",
+            "githubUsername": "DarkOutX"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DarkOutX/-types-exif-js",
+        "directory": "types/exif-js"
+    },
+    "scripts": {},
+    "typeScriptVersion": "4.9.5"
+}
