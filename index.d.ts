@@ -51,6 +51,6 @@ interface ExifStatic {
 /**
  * Library for reading EXIF meta data from image files
  */
-declare var EXIF: ExifStatic
+declare var EXIF: ExifStatic;
 
 export = EXIF;

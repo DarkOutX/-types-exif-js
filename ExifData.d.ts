@@ -3,7 +3,11 @@ import type { EXIF_TAGS } from "./tags";
 import type { EXIF_STRINGS } from "./strings";
 
 export namespace ExifData {
-    export type Coord_DMS = [ D: number, M: number, S: number ];
+    /**
+     * Type is especially Number, not number, because it has format of rational number (object)
+     *  { numerator: number, denominator: number } which can be converted to number by calling Number(coord[0])
+     */
+    export type Coord_DMS = [ D: Number, M: Number, S: Number ];
     export type Coord_DMS_empty = [ D: null, M: null, S: null ];
 
     type AllDataMap = Record<EXIF_TAGS.ALL, any>;
